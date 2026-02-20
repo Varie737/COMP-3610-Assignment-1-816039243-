@@ -1,0 +1,6 @@
+streamlit: Version: 1.54.0
+polars: Version: 1.37.1
+duckdb: Version: 1.4.4
+plotly: Version: 6.5.2
+pandas: Version: 2.3.3
+pyarrow: Version: 23.0.0

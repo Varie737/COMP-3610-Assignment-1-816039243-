@@ -50,7 +50,7 @@ http://localhost:8501/
 ## Setup Instructions
 
 ### Step 1: Clone the Repository
-git clone: https://github.com/Varie737/COMP-3601-Assignment-1-816039243-
+git clone: https://github.com/Varie737/COMP-3610-Assignment-1-816039243-
 
 ### Step 2: Install Dependencies
 pip install -r requirements.txt
